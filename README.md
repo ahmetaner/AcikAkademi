@@ -27,6 +27,10 @@ Aşağıdaki tablolar, bir lisans öğrencisinin veya meraklısının takip edeb
 | Tek Değişkenli Kalkülüs 1. Kısım | Fuat Serkan Orhan | [İncele](https://youtube.com/playlist?list=PL4bZBI_tvM9A-8XXRHLzqlJEw5eQl5YrY&si=JOElf8uHJG29pVJS) |
 | Tek Değişkenli Kalkülüs 2. Kısım | Fuat Serkan Orhan | [İncele](https://youtube.com/playlist?list=PL4bZBI_tvM9Cjbp9vDmAFePgoyoKUmlNw&si=IvgWO62X9Ii8zDD1) |
 | Çok Değişkenli ve Vektör Kalkülüs | Fuat Serkan Orhan | [İncele](https://youtube.com/playlist?list=PL4bZBI_tvM9D43yPw27TFqG56j1YFs9Vd&si=3-0FoS-gw4jy5g_O) |
+| Doğrusal Cebir | Fuat Serkan Orhan | [İncele](https://youtube.com/playlist?list=PL4bZBI_tvM9DOZZY0kKeWZCu3RHsd1x38&si=mZx5IfSH8XwdoEvk)
+| Türevsel Denklemler | Fuat Serkan Orhan | [İncele](https://youtube.com/playlist?list=PL4bZBI_tvM9CSORW9eL01nvI-DgX3LS-Q&si=_lUGI7ENBpG1wMob)
+| Olasılık | Fuat Serkan Orhan | [İncele](https://youtube.com/playlist?list=PL4bZBI_tvM9ARGwggLYtY4dqT2hR4s2Mn&si=pm3cMimoAvYk5EZF)
+| İstatistik | Fuat Serkan Orhan | [İncele](https://youtube.com/playlist?list=PL4bZBI_tvM9DG8Mbc15flY1T_U0H1aqut&si=a4PGIE74e5D3Zxdz)
 
 
 
