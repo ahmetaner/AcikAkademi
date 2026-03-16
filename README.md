@@ -23,7 +23,7 @@ Aşağıdaki tablolar, bir lisans öğrencisinin veya meraklısının takip edeb
 ### Matematik
 
 | Ders Adı |  Kaynak | Bağlantı |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | Tek Değişkenli Kalkülüs | Fuat Serkan Orhan | [İncele](https://youtube.com/playlist?list=PL4bZBI_tvM9A-8XXRHLzqlJEw5eQl5YrY&si=JOElf8uHJG29pVJS) |
 | Çok Değişkenli Kalkülüs | Fuat Serkan Orhan | [İncele](https://youtube.com/playlist?list=PL4bZBI_tvM9Cjbp9vDmAFePgoyoKUmlNw&si=IvgWO62X9Ii8zDD1) |
 | Vektör Kalkülüs | Fuat Serkan Orhan | [İncele](https://youtube.com/playlist?list=PL4bZBI_tvM9D43yPw27TFqG56j1YFs9Vd&si=3-0FoS-gw4jy5g_O) |
