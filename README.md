@@ -10,15 +10,7 @@ Açık Akademi, akademik eğitime erişimi demokratikleştirmeyi amaçlayan, tam
 
 Aşağıdaki tablolar, bir lisans öğrencisinin veya meraklısının takip edebileceği temel ve ileri seviye dersleri içermektedir.
 
-### 📡 Elektrik-Elektronik Mühendisliği (Örnek Yapı)
 
-| Ders Adı | Kaynak Tipi | Kaynak / Kanal Adı | Durum | Bağlantı |
-| :--- | :--- | :--- | :--- | :--- |
-| Devre Teorisi I | YouTube | [Kanal Adı] | ✅ Tamamlandı | [Git](#) |
-| Sinyaller ve Sistemler | YouTube | [Kanal Adı] | 🏗️ Güncelleniyor | [Git](#) |
-| RF ve Mikrodalga Tekniği | Kitap / Video | [Kanal Adı] | ✅ Tamamlandı | [Git](#) |
-| Dijital Sinyal İşleme (DSP) | MATLAB / Video | [Kanal Adı] | ✅ Tamamlandı | [Git](#) |
-| Anten Teorisi | Video / Not | [Kanal Adı] | 🏗️ Taslak | [Git](#) |
 
 ### Matematik
 
