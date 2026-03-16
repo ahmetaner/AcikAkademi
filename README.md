@@ -41,6 +41,8 @@ Aşağıdaki tablolar, bir lisans öğrencisinin veya meraklısının takip edeb
 | C Programlama Dersleri | Yazılım Bilimi | [İncele](https://youtube.com/playlist?list=PLIHume2cwmHdFsJRo5oYG7yQ4NyUx43ql&si=mxQDNKZsxvXgjErm)
 | Bilgisayar Bilimlerine Gİriş | Prof. Dr. Kemal Bıçakcı | [İncele](https://youtube.com/playlist?list=PLmPsb7nQhv7N2QTb7fggPSmWmdOi5dGQZ&si=-A8ABAwTE1g_YkxH)
 | Siber Güvenliğe Giriş Dersleri | Prof. Dr. Kemaş Bıçakcı | [İncele](https://youtube.com/playlist?list=PLmPsb7nQhv7MHAfbyYD7-jKXAL4KRqvU2&si=nkBi5OWt9DeDC8JM)
+| Veri İletişimi ve Bİlgisayar Ağları | Prof. Dr. Kemal Bıçakcı | [İncele](https://youtube.com/playlist?list=PLmPsb7nQhv7OLsCOLgVaIiKgRX_SHEcoy&si=9aYB6yT5stZqD3ZS)
+| İşletim Sistemleri | Prof. Dr. Kemal Bıçakcı | [İncele](https://youtube.com/playlist?list=PLmPsb7nQhv7NLRWdIiDVNBDCMOtuUn6WZ&si=Yh66xANBHxsRNgc0)
 
 
 
