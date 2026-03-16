@@ -39,6 +39,8 @@ Aşağıdaki tablolar, bir lisans öğrencisinin veya meraklısının takip edeb
 | Bilgisayar Mimarisi | Oğuz Ergin | [İncele](https://youtube.com/playlist?list=PLvNq8wrSYGAU6CF4UleG6HbXa9paQDsLK&si=vgDHCfAD3umzD56K)
 | Verilog HDL | Oğuz Ergin | [İncele](https://youtube.com/playlist?list=PLvNq8wrSYGAU8Cf3n9rhL-GB4yMNO1-XC&si=i03hRo7UjES0oEOS)
 | C Programlama Dersleri | Yazılım Bilimi | [İncele](https://youtube.com/playlist?list=PLIHume2cwmHdFsJRo5oYG7yQ4NyUx43ql&si=mxQDNKZsxvXgjErm)
+| Bilgisayar Bilimlerine Gİriş | Prof. Dr. Kemal Bıçakcı | [İncele](https://youtube.com/playlist?list=PLmPsb7nQhv7N2QTb7fggPSmWmdOi5dGQZ&si=-A8ABAwTE1g_YkxH)
+| Siber Güvenliğe Giriş Dersleri | Prof. Dr. Kemaş Bıçakcı | [İncele](https://youtube.com/playlist?list=PLmPsb7nQhv7MHAfbyYD7-jKXAL4KRqvU2&si=nkBi5OWt9DeDC8JM)
 
 
 
