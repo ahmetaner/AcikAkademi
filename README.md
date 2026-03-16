@@ -20,11 +20,11 @@ Aşağıdaki tablolar, bir lisans öğrencisinin veya meraklısının takip edeb
 | Dijital Sinyal İşleme (DSP) | MATLAB / Video | [Kanal Adı] | ✅ Tamamlandı | [Git](#) |
 | Anten Teorisi | Video / Not | [Kanal Adı] | 🏗️ Taslak | [Git](#) |
 
-### 🧬 Temel Bilimler & Matematik
+### Matematik
 
 | Ders Adı | Seviye | İçerik Türü | Bağlantı |
 | :--- | :--- | :--- | :--- |
-| Kalkülüs (Matematik 101) | Başlangıç | Video Serisi | [İncele](#) |
+| Kalkülüs (Matematik 101) | Başlangıç | Video Serisi | [https://youtube.com/playlist?list=PL4bZBI_tvM9A-8XXRHLzqlJEw5eQl5YrY&si=qsOoiXrDqoHx59mm](#) |
 | Lineer Cebir | Orta | Video + PDF | [İncele](#) |
 | Olasılık ve İstatistik | Orta | Açık Kitap | [İncele](#) |
 
