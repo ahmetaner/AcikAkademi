@@ -6,7 +6,7 @@ Açık Akademi, akademik eğitime erişimi demokratikleştirmeyi amaçlayan, tam
 
 ---
 
-## 🚀 Müfredat ve Yol Haritaları
+## 🚀 Elektrik Elektronik Müfredatı
 
 Aşağıdaki tablolar, bir lisans öğrencisinin veya meraklısının takip edebileceği temel ve ileri seviye dersleri içermektedir.
 
