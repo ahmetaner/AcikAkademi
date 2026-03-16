@@ -36,6 +36,9 @@ Aşağıdaki tablolar, bir lisans öğrencisinin veya meraklısının takip edeb
 | Ders Adı |  Kaynak | Bağlantı |
 | :--- | :--- | :--- |
 | Mantıksal Devre Tasarımı | Oğuz Ergin | [İncele](https://youtube.com/playlist?list=PLvNq8wrSYGAVB2spsV_hoOZW-ogot4Gd2&si=eB06ddKfCbLgR5JH)
+| Bilgisayar Mimarisi | Oğuz Ergin | [İncele](https://youtube.com/playlist?list=PLvNq8wrSYGAU6CF4UleG6HbXa9paQDsLK&si=vgDHCfAD3umzD56K)
+| Verilog HDL | Oğuz Ergin | [İncele](https://youtube.com/playlist?list=PLvNq8wrSYGAU8Cf3n9rhL-GB4yMNO1-XC&si=i03hRo7UjES0oEOS)
+| C Programlama Dersleri | Yazılım Bilimi | [İncele](https://youtube.com/playlist?list=PLIHume2cwmHdFsJRo5oYG7yQ4NyUx43ql&si=mxQDNKZsxvXgjErm)
 
 
 
