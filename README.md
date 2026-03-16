@@ -44,6 +44,11 @@ Aşağıdaki tablolar, bir lisans öğrencisinin veya meraklısının takip edeb
 | Veri İletişimi ve Bİlgisayar Ağları | Prof. Dr. Kemal Bıçakcı | [İncele](https://youtube.com/playlist?list=PLmPsb7nQhv7OLsCOLgVaIiKgRX_SHEcoy&si=9aYB6yT5stZqD3ZS)
 | İşletim Sistemleri | Prof. Dr. Kemal Bıçakcı | [İncele](https://youtube.com/playlist?list=PLmPsb7nQhv7NLRWdIiDVNBDCMOtuUn6WZ&si=Yh66xANBHxsRNgc0)
 
+### Bilgisayar Bilimleri
+| Ders Adı |  Kaynak | Bağlantı |
+| :--- | :--- | :--- |
+| Doğru Akım Devre Analizi | Tolga Girici | [İncele](https://youtube.com/playlist?list=PLU6W9Swa9FJBBV1ceP8FbrBOjH6ciiHOf&si=wE4jVzS9PAXLPmlg) |
+| Alternatif Akım Devre Analizi | Tolga Girici | [İncele](https://youtube.com/playlist?list=PLU6W9Swa9FJDacV2D4kwq_4VEiOtQ-slp&si=kuFbGtl7j8Hxj0ET) |
 
 
 
