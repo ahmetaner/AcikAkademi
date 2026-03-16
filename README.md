@@ -32,6 +32,12 @@ Aşağıdaki tablolar, bir lisans öğrencisinin veya meraklısının takip edeb
 | Genel Fizik 1 - Mekanik | Necati Çelik | [İncele](https://youtube.com/playlist?list=PLqNc_xpYGu778g0eFmqlEwD0W9lZeLaaw&si=XzprW9TqMKqh-ZbH)
 | Genel Fizik 2 - Elektromanyetizma | Necati Çelik | [İncele](https://youtube.com/playlist?list=PLqNc_xpYGu778g0eFmqlEwD0W9lZeLaaw&si=XzprW9TqMKqh-ZbH)
 
+### Bilgisayar Bilimleri
+| Ders Adı |  Kaynak | Bağlantı |
+| :--- | :--- | :--- |
+| Mantıksal Devre Tasarımı | Oğuz Ergin | [İncele](https://youtube.com/playlist?list=PLvNq8wrSYGAVB2spsV_hoOZW-ogot4Gd2&si=eB06ddKfCbLgR5JH)
+
+
 
 
 
