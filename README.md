@@ -24,7 +24,7 @@ Aşağıdaki tablolar, bir lisans öğrencisinin veya meraklısının takip edeb
 
 | Ders Adı | Seviye | İçerik Türü | Bağlantı |
 | :--- | :--- | :--- | :--- |
-| Kalkülüs (Matematik 101) | Başlangıç | Video Serisi | [https://youtube.com/playlist?list=PL4bZBI_tvM9A-8XXRHLzqlJEw5eQl5YrY&si=qsOoiXrDqoHx59mm](#) |
+| Kalkülüs (Matematik 101) | Başlangıç | Video Serisi | [](https://youtube.com/playlist?list=PL4bZBI_tvM9A-8XXRHLzqlJEw5eQl5YrY&si=JOElf8uHJG29pVJS) |
 | Lineer Cebir | Orta | Video + PDF | [İncele](#) |
 | Olasılık ve İstatistik | Orta | Açık Kitap | [İncele](#) |
 
