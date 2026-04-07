@@ -24,6 +24,7 @@ Aşağıdaki tablolar, bir lisans öğrencisinin veya meraklısının takip edeb
 | Olasılık | Fuat Serkan Orhan | [İncele](https://youtube.com/playlist?list=PL4bZBI_tvM9ARGwggLYtY4dqT2hR4s2Mn&si=pm3cMimoAvYk5EZF)
 | İstatistik | Fuat Serkan Orhan | [İncele](https://youtube.com/playlist?list=PL4bZBI_tvM9DG8Mbc15flY1T_U0H1aqut&si=a4PGIE74e5D3Zxdz)
 | Ayrık Matematik | BUders Boğaziçiliden Özel Ders | [İncele](https://youtube.com/playlist?list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp&si=QoP7DkxP2EsD6VRK)
+| Essentials of numerical nonsmooth optimization | Manilo Gaudioso | [İncele](https://media.ed.ac.uk/playlist/dedicated/51612401/1_h2lhtoyd/1_joadqoxi)
 
 ### Fizik
 
